@@ -7,13 +7,13 @@
 <AppShell class="bg-surface-100">
 	<svelte:fragment slot="header">
 		<!-- App Bar -->
-		<AppBar>
+		<AppBar background="bg-surface-200" shadow="shadow-lg">
 			<svelte:fragment slot="lead">
-				<strong class="text-xl uppercase">marklund.tech</strong>
+				<h1 class="h1"><span class="gradient-heading font-bold font-mono">marklund.tech</span></h1>
 			</svelte:fragment>
 			<svelte:fragment slot="trail">
 				<a
-					class="btn btn-sm bg-primary-500"
+					class="btn btn-sm bg-gradient-to-br variant-gradient-primary-secondary"
 					href="https://discord.gg/EXqV7W8MtY"
 					target="_blank"
 					rel="noreferrer"
@@ -21,7 +21,7 @@
 					Projects
 				</a>
 				<a
-					class="btn btn-sm bg-primary-500"
+					class="btn btn-sm bg-gradient-to-br variant-gradient-primary-secondary"
 					href="https://twitter.com/SkeletonUI"
 					target="_blank"
 					rel="noreferrer"
@@ -29,7 +29,7 @@
 					Resume
 				</a>
 				<a
-					class="btn btn-sm bg-primary-500"
+					class="btn btn-sm bg-gradient-to-br variant-gradient-primary-secondary"
 					href="https://github.com/skeletonlabs/skeleton"
 					target="_blank"
 					rel="noreferrer"
