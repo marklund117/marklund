@@ -38,4 +38,8 @@
 	</svelte:fragment>
 	<!-- Page Route Content -->
 	<slot />
+		<footer class="bg-neutral-900 text-neutral-100 text-center p-4">
+			<p>Footer test content</p>
+			<p>&copy; 2025 Mark Lund</p>
+		</footer>
 </AppShell>
