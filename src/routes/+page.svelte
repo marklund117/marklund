@@ -42,7 +42,7 @@
 					</p>
 					<div class="flex justify-center space-x-2">
 						<a
-							class="shadow-xl btn bg-gradient-to-br variant-gradient-primary-secondary w-[200px] h-[48px] md:h-[32px]"
+							class="shadow-xl btn bg-gradient-to-br variant-gradient-primary-secondary w-[210px] h-[48px] md:h-[32px]"
 							href="/projects"
 							rel="noreferrer"
 							in:fly={{ y: 20, duration: 500, delay: 200 }}
@@ -50,7 +50,7 @@
 							Projects
 						</a>
 						<a
-							class="shadow-xl btn bg-gradient-to-br variant-gradient-primary-secondary w-[200px] h-[48px] md:h-[32px]"
+							class="shadow-xl btn bg-gradient-to-br variant-gradient-primary-secondary w-[210px] h-[48px] md:h-[32px]"
 							href="/blog"
 							rel="noreferrer"
 							in:fly={{ y: 20, duration: 500, delay: 300 }}
