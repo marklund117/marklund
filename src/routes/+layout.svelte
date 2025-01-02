@@ -19,13 +19,13 @@
 				</div>
 				<div>
 					<a
-						class="btn btn-sm bg-gradient-to-br variant-gradient-primary-secondary w-[80px] h-[48px] md:h-[32px]"
+						class="mr-2 btn btn-sm bg-gradient-to-br variant-gradient-primary-secondary w-[80px] h-[48px] md:h-[32px]"
 						href="/projects"
 					>
 						Projects
 					</a>
 					<a
-						class="btn btn-sm bg-gradient-to-br variant-gradient-primary-secondary w-[80px] h-[48px] md:h-[32px]"
+						class="mr-2 btn btn-sm bg-gradient-to-br variant-gradient-primary-secondary w-[80px] h-[48px] md:h-[32px]"
 						href="/resume"
 					>
 						Resume
