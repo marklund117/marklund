@@ -30,7 +30,7 @@
 		<div class="space-y-10 text-center flex flex-col items-center">
 			{#if showButtons}
 				<div
-					class=" bg-white pb-5 pt-8 pl-5 pr-5 rounded-[24px] shadow-xl flex flex-col items-center"
+					class=" bg-white pb-5 pt-8 pl-5 pr-5 rounded-lg shadow-xl flex flex-col items-center"
 					in:fade={{ duration: 500, delay: 0 }}
 				>
 					<div class="flex flex-row mb-10">
