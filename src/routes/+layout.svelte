@@ -1,6 +1,7 @@
 <script lang="ts">
 	import '../app.postcss';
 	import { AppShell, AppBar } from '@skeletonlabs/skeleton';
+	import Page from './+page.svelte';
 </script>
 
 <!-- App Shell -->
@@ -43,7 +44,9 @@
 	<!-- Page Route Content -->
 	<slot />
 	<footer class="bg-neutral-900 text-neutral-100 text-center p-4">
-		<p>Footer test content</p>
-		<p>&copy; 2025 Mark Lund</p>
+		<a href="www.linkedin.com/in/mark-s-lund" target="_blank" class="text-secondary-500 p-2 btn">LinkedIn</a><a href="https://github.com/marklund117" target="_blank" class="text-secondary-500 p-2 btn">Github</a>
+		<p class="underline">marklund117@gmail.com</p>
+		<p>Designed and Developed by Mark Lund</p>
+		<p>&copy;2025 Mark Lund</p>
 	</footer>
 </AppShell>

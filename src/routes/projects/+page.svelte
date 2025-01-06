@@ -1,24 +1,23 @@
 <div class="container h-full mx-auto flex justify-center items-center">
 	<div class="w-full lg:w-[70rem] grid grid-cols-1 md:grid-cols-2">
-		<div class=" bg-white rounded-lg shadow-xl flex flex-col items-center m-4">
-			<header class="card-header text-black">Project One</header>
-			<section class="p-4">Content goes here</section>
-			<footer>Test</footer>
-		</div>
-        <div class=" bg-white rounded-lg shadow-xl flex flex-col items-center m-4">
-			<header class="card-header text-black">Project Two</header>
-			<section class="p-4">Content goes here</section>
-			<footer>Test</footer>
-		</div>
-        <div class=" bg-white rounded-lg shadow-xl flex flex-col items-center m-4">
-			<header class="card-header text-black">Project Three</header>
-			<section class="p-4">Content goes here</section>
-			<footer>Test</footer>
-		</div>
-        <div class=" bg-white rounded-lg shadow-xl flex flex-col items-center m-4">
-			<header class="card-header text-black">Project Four</header>
-			<section class="p-4">Content goes here</section>
-			<footer>Test</footer>
-		</div>
+		<a href="https://namegen-six.vercel.app/" target="blank">
+			<div class=" bg-white rounded-lg shadow-xl flex flex-col items-center m-4 card-hover">
+				<header class="card-header text-neutral-900 text-xl">Namegen</header>
+				<section class="p-4">
+					<img class="rounded-lg" src="namegencard.png" alt="a stylized green n logo on a black background" />
+				</section>
+				<footer class="text-neutral-900 pb-4">AI powered username generation tool.</footer>
+			</div>
+		</a>
+		<a href="https://www.adviserelite.com/" target="blank">
+			<div class=" bg-white rounded-lg shadow-xl flex flex-col items-center m-4 card-hover">
+				<header class="card-header text-neutral-900 text-xl">Adviser Elite</header>
+				<section class="p-4">
+					<img class="rounded-lg" src="adviserelitecard.png" alt="the words adviser elite on a blue background" />
+				</section>
+				<footer class="text-neutral-900 pb-4">Professional site for a relative.</footer>
+			</div>
+		</a>
+
 	</div>
 </div>
