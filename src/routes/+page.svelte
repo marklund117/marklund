@@ -67,7 +67,7 @@
 
 <style>
 	.bg-image {
-		background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('sitebg3.png');
+		background-image: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), url('/src/lib/images/sitebg3.png');
 		background-size: cover;
 		background-position: calc(50% + (var(--mouseX) * 0.01px)) calc(50% + (var(--mouseY) * 0.01px));
 		background-repeat: no-repeat;
