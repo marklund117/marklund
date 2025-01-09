@@ -5,7 +5,7 @@
 </script>
 
 <!-- App Shell -->
-<AppShell class="bg-surface-100">
+<AppShell class="bg-surface-100 hide-scrollbar">
 	<svelte:fragment slot="header">
 		<!-- App Bar -->
 		<header class="bg-white shadow-lg items-center h-[64px] flex flex-row justify-center pr-4 pl-4">
