@@ -8,6 +8,6 @@
 		>
 			View/Download PDF
 		</a>
-		<img class="w-full lg:max-w-[850px]" src="resume.png" alt="resume" />
+		<img class="w-full lg:max-w-[850px]" src="resume_small.png" alt="resume" />
 	</div>
 </div>
