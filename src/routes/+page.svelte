@@ -1,4 +1,5 @@
 <script lang="ts">
+	// support for button animation and moving background
 	import { onMount } from 'svelte';
 	import { fly, fade, crossfade } from 'svelte/transition';
 
