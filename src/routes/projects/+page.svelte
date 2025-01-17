@@ -18,6 +18,15 @@
 				<footer class="text-neutral-900 pb-4">Professional site for a relative.</footer>
 			</div>
 		</a>
+		<a href="https://3620final.vercel.app/" target="blank">
+			<div class=" bg-white rounded-lg shadow-xl flex flex-col items-center m-4 card-hover">
+				<header class="card-header text-neutral-900 text-xl">Lorebook</header>
+				<section class="p-4">
+					<img class="rounded-lg" src="lorebookcard.png" alt="the words adviser elite on a blue background" />
+				</section>
+				<footer class="text-neutral-900 pb-4">University Project utilizing Svelte</footer>
+			</div>
+		</a>
 
 	</div>
 </div>
