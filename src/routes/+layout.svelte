@@ -44,7 +44,7 @@
 	<!-- Page Route Content -->
 	<slot />
 	<footer class="bg-neutral-900 text-neutral-100 text-center p-4">
-		<a href="www.linkedin.com/in/mark-s-lund" target="_blank" class="text-secondary-500 p-2 btn"
+		<a href="https://linkedin.com/in/mark-s-lund" target="_blank" class="text-secondary-500 p-2 btn"
 			>LinkedIn</a
 		><a href="https://github.com/marklund117" target="_blank" class="text-secondary-500 p-2 btn"
 			>Github</a
