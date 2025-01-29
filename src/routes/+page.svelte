@@ -35,13 +35,18 @@
 					in:fade={{ duration: 500, delay: 0 }}
 				>
 					<div class="flex flex-row mb-10">
-						<p class="text-[72px] text-secondary-500 mr-4">Mark</p>
-						<p class="text-[72px] text-primary-500">Lund</p>
+						<p class="text-[56px] md:text-[72px] text-secondary-500 mr-4">Mark</p>
+						<p class="text-[56px] md:text-[72px] text-primary-500">Lund</p>
 					</div>
-					<p class=" text-black font-bold font-mono mb-5" in:fade={{ duration: 500, delay: 100 }}>
+					<p class="hidden md:block text-black font-bold font-mono mb-5" in:fade={{ duration: 500, delay: 100 }}>
 						Web Design // Web Development // User Experience
 					</p>
-					<div class="flex justify-center space-x-2">
+					<div class="md:hidden text-black font-bold font-mono mb-5" in:fade={{ duration: 500, delay: 100 }}>
+						<p>Web Design</p>
+						<p>Web Development</p>
+						<p>User Experience</p>
+					</div>
+					<div class="flex flex-col md:flex-row justify-center space-y-2 md:space-x-2 md:space-y-0">
 						<a
 							class="shadow-xl btn bg-gradient-to-br variant-gradient-primary-secondary w-[210px] h-[48px] md:h-[32px]"
 							href="/projects"
