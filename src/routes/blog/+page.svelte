@@ -6,7 +6,7 @@
 				<section class="p-4">
 					<img class="rounded-lg" src="dialerframe.png" alt="a stylized green n logo on a black background" />
 				</section>
-				<footer class="text-neutral-900 pb-4">Redesigning a web-based phone software.</footer>
+				<footer class="text-neutral-900 pb-4">Redesigning a web-based phone software</footer>
 			</div>
 		</a>
         <a href="/" target="blank">
