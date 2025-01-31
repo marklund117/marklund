@@ -9,7 +9,7 @@
 				<footer class="text-neutral-900 pb-4">Redesigning a web-based phone software</footer>
 			</div>
 		</a>
-        <a href="/" target="blank">
+        <a href="https://medium.com/mark-lunds-portfolio/the-importance-of-user-research-6a7905286455" target="blank">
 			<div class=" bg-white rounded-lg shadow-xl flex flex-col items-center m-4 card-hover">
 				<header class="card-header text-neutral-900 text-xl">The Importance of User Research</header>
 				<section class="p-4">
