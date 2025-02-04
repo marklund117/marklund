@@ -54,3 +54,9 @@
 		<p>&copy;2025 Mark Lund</p>
 	</footer>
 </AppShell>
+
+<style>
+	:root {
+		scrollbar-color: auto !important;
+	}
+</style>
